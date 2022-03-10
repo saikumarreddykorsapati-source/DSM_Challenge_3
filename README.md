@@ -13,6 +13,9 @@ Youtube Video Link with Explanation [Click here...](https://youtu.be/6dKbLnG0Or4
 
 ![Logo](https://media.giphy.com/media/l1WR5hEkNhESWpY6td/giphy-downsized-large.gif)
 
+#### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
+![Output avi : ](https://github.com/saikumarreddykorsapati-source/DSM_Challenge_3/blob/main/Documentation/social%20distance%20detection.gif)
+
 ## 👨 Author
 
 - [@saikumarreddykorsapati-source](https://github.com/saikumarreddykorsapati-source)
@@ -21,15 +24,7 @@ Youtube Video Link with Explanation [Click here...](https://youtu.be/6dKbLnG0Or4
 
 ## 💻 Tech Stack
 
-**Frontend -** Html, Css, Js, Bootstrap
-
-**Backend -** Python, Django
-
-**Database -** Sqlite-3
-
-**Version Control -** GitHub
-
-**Deployment -** Heroku
+Python, Numpy, OpenCv, Yolov3, Scipy, CNN, Deepsort, Deeplearning Techniques 
 
 ## 📚 Documentation
 
