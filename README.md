@@ -36,7 +36,7 @@ Architecture : [Link - Click here...](https://github.com/saikumarreddykorsapati-
 
 (DPR) Detailed Project Report : [Link - Click here...](https://docs.google.com/presentation/d/19z3kfPl4pIk2pRyc5znnFydVfobt05TLQil4lpxf_CA/edit?usp=sharing)
 
-# For GPU:
+# For GPU runtime:
 You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
 
 ## Simple Theory
@@ -80,7 +80,7 @@ Similarly MIN_DISTANCE = 50 implies the minimum distance between 2 people. If th
 Anything above 80 px is considered as a safe distance and thus, 'no' violation (green).
 
 
-## 📌 Installation
+## 📌 Installation for CPU runtime in Ubuntu
 
 Install my-project in following way :
 
