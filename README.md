@@ -2,16 +2,14 @@
 
 # ⛳ Social distancing detection
 
-The main purpose of video conferencing is to enable face-to-face communication between two or more people in different locations.
+The main purpose of the Social Distancing Detection System is to enable the process of automating the task of monitoring social distancing using surveillance video. 
 
-
+Since there are no proper vaccines available for covid-19 complete prevention, social distancing is the only feasible approach to fight against this pandemic.
 
 
 ## 🎥 Demo
 
 Youtube Video Link with Explanation [Click here...](https://youtu.be/6dKbLnG0Or4) 
-
-![Logo](https://media.giphy.com/media/l1WR5hEkNhESWpY6td/giphy-downsized-large.gif)
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
 ![Output avi : ](https://github.com/saikumarreddykorsapati-source/DSM_Challenge_3/blob/main/Documentation/social%20distance%20detection.gif)
@@ -38,7 +36,8 @@ Architecture : [Link - Click here...](https://github.com/saikumarreddykorsapati-
 
 (DPR) Detailed Project Report : [Link - Click here...](https://docs.google.com/presentation/d/19z3kfPl4pIk2pRyc5znnFydVfobt05TLQil4lpxf_CA/edit?usp=sharing)
 
-Deployed App Demo : [Link - Click here...](https://django-video-conference-app.herokuapp.com)
+# For GPU:
+You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
 
 ## Simple Theory
 #### Object detection:
