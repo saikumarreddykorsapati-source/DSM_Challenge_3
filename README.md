@@ -34,6 +34,8 @@ Architecture : [Link - Click here...](https://github.com/saikumarreddykorsapati-
 
 (DPR) Detailed Project Report : [Link - Click here...](https://docs.google.com/presentation/d/19z3kfPl4pIk2pRyc5znnFydVfobt05TLQil4lpxf_CA/edit?usp=sharing)
 
+As github wont allow us to store files more than 100mb : [Link - Click here to download yolo weights file...](https://drive.google.com/file/d/1YYzLD_hHiAWRmbr1ZzLNP0lBd1NUhrKz/view?usp=sharing)
+
 # For GPU runtime:
 You can find my google colab file here : [Social Distancing Detection DSM Challenge 3 colab link](https://colab.research.google.com/drive/16cKgO6UMKrJ2nHBWbL5mBKSimSCxzV_m?usp=sharing)
 
