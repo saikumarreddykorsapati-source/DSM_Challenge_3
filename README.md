@@ -1,6 +1,6 @@
 ## DSM_Challenge_3
 
-# 🏆 Social distancing detection
+# 🚩 Social distancing detection
 
 The main purpose of the Social Distancing Detection System is to enable the process of automating the task of monitoring social distancing using surveillance video. 
 
