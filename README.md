@@ -11,8 +11,8 @@ Since there are no proper vaccines available for covid-19 complete prevention, s
 
 Youtube Video Link with Explanation [Click here...](https://youtu.be/6dKbLnG0Or4) 
 
-#### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output avi : ](https://github.com/saikumarreddykorsapati-source/DSM_Challenge_3/blob/main/Documentation/social%20distance%20detection.gif)
+#### After you run the last line of command,a window eill pop up and after execution of the file a `final_sdd_output.avi` file will be showing up in your directory like this:
+![final_sdd_output.avi : ](https://github.com/saikumarreddykorsapati-source/DSM_Challenge_3/blob/main/Documentation/social%20distance%20detection.gif)
 
 ## 👨 Author
 
@@ -37,7 +37,7 @@ Architecture : [Link - Click here...](https://github.com/saikumarreddykorsapati-
 (DPR) Detailed Project Report : [Link - Click here...](https://docs.google.com/presentation/d/19z3kfPl4pIk2pRyc5znnFydVfobt05TLQil4lpxf_CA/edit?usp=sharing)
 
 # For GPU runtime:
-You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
+You can find my google colab file here : [Social Distancing Detection DSM Challenge 3 colab link](https://colab.research.google.com/drive/16cKgO6UMKrJ2nHBWbL5mBKSimSCxzV_m?usp=sharing)
 
 ## Simple Theory
 #### Object detection:
@@ -80,32 +80,6 @@ Similarly MIN_DISTANCE = 50 implies the minimum distance between 2 people. If th
 Anything above 80 px is considered as a safe distance and thus, 'no' violation (green).
 
 
-## 📌 Installation for CPU runtime in Ubuntu
-
-Install my-project in following way :
-
-Download Zip File, then 
-
-Open your terminal, Change directory to where you have downloaded this code, Install python3 if you have not, if installed already then it's ok!
-
-\# Run to create a virtual environment named venv.
-```bash 
-python3 -m venv venv 
-```
-\# Run below command to activate your environment!
-```bash 
-source venv/bin/activate 
-```
-\# Run below command to install the python dependencies related to this project like opencv,numpy,scipy etc.
-```bash 
-pip install -r requirements.txt 
-```
-\# Run the command to run your social distancing detection project
-```bash 
-time python social_distance_detector.py --input pedestrians.mp4 --output output.avi --display 1 
-```
-After you run the last line of command,a window eill pop up and after execution of the file a output.avi file will be showing up in your directory as shown in above demo.
- 
 ## ⌛ FAQ
 
 #### What is Yolo v3?
